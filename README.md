@@ -8,4 +8,4 @@
 
 `node node_modules/webpack-dev-server/bin/webpack-dev-server.js`
 
-Heavily influenced by the Twilio React/Babel/Webpack tutorial
+[Heavily influenced by the Twilio React/Babel/Webpack tutorial](https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html)
